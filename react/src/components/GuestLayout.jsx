@@ -12,8 +12,7 @@ export default function GuestLayout(){
               src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
               alt="Your Company"
             />
-          </div>
-          
+          </div>   
           <Outlet/>
         </div>
       </div>
